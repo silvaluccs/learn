@@ -1,1 +1,3 @@
-puts "Hello world"
+
+age = 10
+
